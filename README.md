@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur [la deuxième version de mon site](https://github.com/GgRd/GgRdWebsite-V2)
 
-- 🌱 J'apprends actuellement **Python, JavaScript, Java**
+- 🌱 J'apprends actuellement le **Python, JavaScript, Java**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/GgRd?tab=repositories](https://github.com/GgRd?tab=repositories)
 
