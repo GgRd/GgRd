@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **Je suis quelqu'un de chiant, faut savoir m'apprécier mdrr**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://twitter.com/ggrd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ggrd_" height="30" width="40" /></a>
+<a href="https://twitter.com/ggrd_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="ggrd_" height="30" width="40" /></a>
 <a href="https://instagram.com/gg_rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gg_rd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCqQ170CCWXdCeEJhGffLf3Q?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ggrd" height="30" width="40" /></a>
 <a href="https://discord.gg/GqarRZgRs7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GqarRZgRs7" height="30" width="40" /></a>
