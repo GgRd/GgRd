@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ggrd_" target="blank"><img src="https://img.shields.io/twitter/follow/ggrd_?logo=twitter&style=for-the-badge" alt="ggrd_" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [la deuxième version de mon site](https://github.com/GgRd/GgRdWebsite-V2)
+- 🔭 Je travaille actuellement sur [AI HUB FRANCE](https://github.com/AIHUBFRANCE)
 
 - 🌱 J'apprends actuellement le **Python, JavaScript, Java**
 
