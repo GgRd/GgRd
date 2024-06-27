@@ -9,7 +9,7 @@
 
 - 🌱 J'apprends actuellement le **Python, JavaScript, Java**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [ggrd.fr/projets](https://ggrd.fr/projets)
+- 👨‍💻 Tous mes projets sont disponibles sur mon site
 
 - 📫 Comment me joindre **contact@ggrd.fr**
 
