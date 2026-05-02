@@ -18,7 +18,6 @@
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
 <a href="https://x.com/ggrd_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="ggrd_" height="30" width="40" /></a>
-<a href="https://instagram.com/gg_rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gg_rd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ggrd_?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ggrd" height="30" width="40" /></a>
 <a href="https://discord.gg/GqarRZgRs7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="GqarRZgRs7" height="30" width="40" /></a>
 </p>
